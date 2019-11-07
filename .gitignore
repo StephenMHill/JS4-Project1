@@ -1,0 +1,4 @@
+prod
+# ignore objects and archives, anywhere in the tree.
+node_modules
+

@@ -1,0 +1,90 @@
+body{
+    overflow: hidden;
+    background-image: url(../images/crop2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section{
+    height:100vh;
+}
+
+#loginout
+{
+   float:right;
+   background-color: rgba(255,255,255,0.5);
+   border-radius: 4px;
+}
+
+#logo
+{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 10%;
+    min-width: 340px;
+}
+
+#hidden_logo
+{
+    display: none;
+    margin-top: 1.5%;
+    margin-left: 1%;
+    width: 2%;
+    min-width: 112px;
+}
+
+a:link, a:visted
+{
+    text-decoration: none;
+}
+
+.link:active, .link:hover
+{
+    color:lightgray;
+    text-shadow: 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;
+}
+
+article
+{
+    padding-top: 5%;
+    width: 380px;
+    font-family: Righteous;
+    text-shadow: 0.5px 0.5px white, -0.5px -0.5px white, -0.5px 0.5px white, 0.5px -0.5px white;
+    line-height: 25px;
+}
+
+h1
+{
+    padding-left: 20%;
+    font-size: 40px;
+    line-height: 45px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+button{
+    background-color: rgb(74, 105, 84);
+    border: 1px solid black;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 22px;
+    cursor: pointer;
+  }
+  .feat_one
+  {
+      margin-left: 30px;
+  }
