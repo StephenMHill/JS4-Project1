@@ -1,0 +1,82 @@
+body{
+    overflow: hidden;
+    background-image: url(../images/crop2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section{
+    height:100vh;
+}
+
+article
+{
+    padding-top: 5%;
+    padding-left: 1.5%;
+    width: 382px;
+    font-family: Righteous;
+    text-shadow: 0.5px 0.5px white, -0.5px -0.5px white, -0.5px 0.5px white, 0.5px -0.5px white;
+    line-height: 25px;
+}
+
+#logo
+{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 10%;
+    min-width: 382px;
+}
+
+#hidden_logo
+{
+    display: none;
+    margin-top: 1.5%;
+    margin-left: 1%;
+    width: 2%;
+    min-width: 112px;
+}
+
+a:link, a:visted
+{
+    text-decoration: none;
+}
+
+.link:active, .link:hover
+{
+    color:lightgray;
+    text-shadow: 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;
+}
+
+.wrapper{
+    clear: right;
+}
+
+h1
+{
+    font-size: 40px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+button{
+    background-color: rgba(50, 50, 50, 0.7);
+    border: 1px solid black;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 12px;
+    cursor: pointer;
+  }
