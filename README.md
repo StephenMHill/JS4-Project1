@@ -13,3 +13,9 @@ Day4: Talked to Phil and understand how to proceed. I will complete the instiall
 
 username: shill
 password: password
+
+
+Logo created using https://www.freelogodesign.org/
+main background image taken from https://commons.wikimedia.org/wiki/File:Living_with_the_Land_33.jpg
+
+banner on contact page cropped to fit, taken from https://en.wikipedia.org/wiki/Drip_irrigation#/media/File:Button_dripper.JPG
